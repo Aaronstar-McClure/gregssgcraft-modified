@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+import smeg2rib
+smeg2rib.main()
